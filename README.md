@@ -33,11 +33,8 @@ Install the [PyPI package](https://pypi.python.org/pypi/keyboard/):
 
 or clone the repository (no installation required, source files are sufficient):
 
-    git clone https://github.com/boppreh/keyboard
+    git clone https://github.com/zoldaten/keyboard
 
-or [download and extract the zip](https://github.com/boppreh/keyboard/archive/master.zip) into your project folder.
-
-Then check the [API docs below](https://github.com/boppreh/keyboard#api) to see what features are available.
 
 
 ## Example
